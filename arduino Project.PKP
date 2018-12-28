@@ -1,0 +1,39 @@
+LABCENTER PROTEUS PICK AND PLACE FILE
+=====================================
+
+Component positions for arduino Project.pdsprj
+
+Fields: Part ID, Value, Package, Stock Code, Layer, Rotation, X, Y
+Units:  Rotation - degrees, X, Y  - thou
+Notes:  The X, Y value is the centre of package as drawn in ARES.
+        The origin for these values is the Output Origin.
+        The values are a guide only and must be checked manually when
+        setting up automatic insertion equipment.
+
+"J2","TBLOCK-I2","TBLOCK-I2","",TOP,90,-1181.1,1241.73
+"D1","1N4007","DO41","",TOP,270,-826.772,1223.62
+"D2","1N4007","DO41","",TOP,90,-590.551,1223.62
+"D3","1N4007","DO41","",TOP,-90,-433.071,1223.62
+"D4","1N4007","DO41","",TOP,90,-196.85,1223.62
+"C4","1000U","CAPPRD500W60D1250H2200","Digikey P5169-ND",TOP,90,236.22,1141.73
+"U3","LD33","3PIN-REG","12345",TOP,180,826.772,708.661
+"U2","7805","P1","",TOP,0,511.811,1692.91
+"J4","CONN-SIL5","CONN-SIL5","",TOP,0,-78.7402,1732.28
+"R2","1k","RES40","M1k",TOP,270,708.661,1184.25
+"R3","1k","RES40","M1k",TOP,270,984.252,1184.25
+"D6","LED-BIBY","LED-PACK","",TOP,0,934.252,1653.54
+"D7","LED-BIBY","LED-PACK","",TOP,0,1231.1,1653.54
+"J5","CONN-SIL6","CONN-SIL6","",TOP,-90,1299.21,994.882
+"U1","ATMEGA328P_2","SPDIL28","244356",TOP,270,7.48031,-609.843
+"X1","CRYSTAL","XTAL18","",TOP,90,-393.701,-808.661
+"C2","22p","CAP20","Maplin WX48C",TOP,180,-690.551,-758.661
+"C3","22p","CAP20","Maplin WX48C",TOP,180,-687.402,-955.512
+"C1","10n","CAP20","Maplin WX77J",TOP,180,21.2598,511.811
+"D5","LED-BIBY","LED-PACK","",TOP,90,433.071,-619.291
+"J6","CONN-SIL6","CONN-SIL6","",TOP,270,1299.21,-207.48
+"J7","CONN-SIL6","CONN-SIL6","",TOP,270,1299.21,-1109.84
+"J1","CONN-SIL8","CONN-SIL8","",TOP,90,-1259.84,-949.213
+"J3","CONN-SIL6","CONN-SIL6","",TOP,270,-1245.47,2.55906
+"R1","10k","RES40","M10K",TOP,0,3.14961,236.22
+"R4","560R","RES40","M560R",TOP,0,908.661,-708.661
+"BTN2","BUTTON","RST-PUSH","",TOP,0,-707.087,78.7402
